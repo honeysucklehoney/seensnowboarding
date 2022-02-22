@@ -1,0 +1,140 @@
+
+
+html {
+
+background-color: white;
+
+margin-top: 30px;
+margin-bottom: 60px;
+/* border: solid 1px black; */
+box-shadow: lighgrey 2px 2px 100px;
+
+
+
+}
+
+body {
+
+  background-image: ;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, white, transparent), url('gridscan.jpeg');
+padding-bottom: 2000px;
+}
+
+p {
+
+font-family: arial;
+letter-spacing: 1px;
+word-spacing: 1.5px;
+line-height: 30px;
+color: blue;
+font-size: 14px;
+margin-left: 125px;
+padding-top: 80px;
+padding-left: 10px;
+padding-right: 60px;
+text-align: left;
+/* border-left: solid blue 1px; */
+
+}
+
+.title {
+
+width:40%;
+margin-left: 30%;
+margin-right: 30%;
+
+}
+
+.tabs {
+
+margin-left: 27%;
+margin-right: 20%;
+
+}
+
+.tab {
+
+height: 150px;
+align-items: center;
+margin: -2px;
+padding: 0px;
+}
+
+.tab:hover {
+
+  background-color: lightsteelblue;
+
+}
+
+
+.tab1 {
+
+display: none;
+
+}
+
+.stylealltabs {
+
+  background-size: 100px;
+  background-repeat: no-repeat;
+  height: 500px;
+  display: none;
+
+}
+
+#tab2 {
+
+background-image: url("blueAbout.jpg");
+
+}
+
+#tab3 {
+
+background-image: url("blueProjects.jpg");
+
+}
+
+#tab4 {
+
+background-image: url("blueMerch.jpg");
+
+}
+
+#tab5 {
+
+background-image: url("blueEvents.jpg");
+
+}
+
+#tab6 {
+
+background-image: url("blueDonate.jpg");
+
+}
+
+.folders {
+
+  border: solid 1px blue;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  box-shadow: lightgrey -12px 1px 30px;
+  overflow: scroll;
+  background-color: white;
+
+}
+
+.homepicture {
+
+  margin-left: 18%;
+  margin-right: 12%;
+  margin-top: 20px;
+
+}
+
+.tabtitle {
+
+height: 100px;
+margin: 30px;
+}
